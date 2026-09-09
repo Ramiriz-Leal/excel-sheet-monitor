@@ -1,11 +1,14 @@
-# Conferencia de dados no excel
+# Excel data check
 
-Projeto de verificação de planilhas
-## Como funciona?
+Spreadsheet monitoring project
 
-Esse projeto visa realizar um acompanhamento de planilhas armazenadas em um direotorio compartilhado
-Util para acompanhamento de planilhas de estoque, vencimento de faturas, tirando a necessidade de ficar abrindo a planilha e verificando, podendo ser otimizado para rodar de tempos em tempos no agendador.
-## Autores
+## How does it work?
+
+This project tracks spreadsheets stored in a shared directory.
+
+It is useful for following stock sheets or invoice due dates, removing the need to keep opening the file just to check it. It can also be scheduled to run at regular intervals through the task scheduler.
+
+## Author
 
 - [GitHub](https://github.com/Ramiriz-Leal?tab=repositories)
 - [Linkedin](https://www.linkedin.com/in/ramiriz-leal/)
